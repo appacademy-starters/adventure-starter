@@ -44,8 +44,7 @@ class Room {
     }
 
     getItemByName(name) {
-
-        // Fill this in
+        console.log('Pick Up')
     }
 
 }

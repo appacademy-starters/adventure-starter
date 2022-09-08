@@ -42,6 +42,17 @@ module.exports = {
             description: "A tasty looking sandwich",
             room: 2,
             isFood: true
+        },
+        {
+            name: "Bottled Ale", 
+            description: "An unoppend bottle of what smells like ale", 
+            room: 2, 
+            isFood: true
+        },
+        {
+            name: "Sturdy Stick",
+            description: "A long and sturdy stick good for walking, not much so for fighting",
+            room: 1
         }
     ]
 }
